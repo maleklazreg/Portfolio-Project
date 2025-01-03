@@ -3,7 +3,9 @@
     margin: 0;
     transition: 0.3s;
 }
-
+body{
+background-color: black;
+}
 .video-container {
     position: fixed;
     top: 0;
